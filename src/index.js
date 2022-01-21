@@ -56,7 +56,6 @@ const startServer = async () => {
   // !! Add other server endpoints here !!
   // ------------------------------
 
-
   // ------------------------------
 
   // 404 endpoints
